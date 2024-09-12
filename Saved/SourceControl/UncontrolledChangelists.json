@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/Infinite Matrix/Content/InfiniteMatrix/UI/C_Health.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/Infinite Matrix/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/Infinite Matrix/Content/InfiniteMatrix/UI/WB_HealthBar.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/Infinite Matrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Maps/TutorialMap.umap",
