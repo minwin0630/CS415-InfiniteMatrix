@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/WB_HealthBar.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/HealthMaterial.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/HealthPack.uasset"
+			]
+		}
+	]
+}
